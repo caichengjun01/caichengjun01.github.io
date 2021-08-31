@@ -13,7 +13,7 @@ name                     : &name "Chengjun CAI"
 description              : &description "Postdoctoral Research Fellow"
 url                      : https://caichengjun01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caichengjun01/caichengjun01.github.io"
+repository               : "caichengjun01.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Chengjun CAI"
+  avatar           : "chengjun.jpg"
+  bio              : "Postdoctoral Research Fellow at City University of Hong Kong"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : [metadata]
   google_plus      :
   keybase          :
   instagram        :
