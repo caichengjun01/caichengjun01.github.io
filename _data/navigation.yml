@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "About"
+    url: "/about/"
+
   - title: "Publications"
     url: "https://scholar.google.com.hk/citations?user=42rBIcAAAAAJ&hl=en"
 
