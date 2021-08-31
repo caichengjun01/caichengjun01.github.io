@@ -33,7 +33,7 @@ My research interests include decentralized data-driven applications, blockchain
 Full version of my publications can be found in **[Google Scholar](https://scholar.google.com.hk/citations?user=42rBIcAAAAAJ&hl=en)** and **[DBLP](https://dblp.org/pid/198/7220.html)**.
 
 
-## Selected Awards
+## Selected awards
 
 - **Best Paper Award** for the paper “Towards a Ledger-Assisted Architecture for Secure Query Processing over Distributed IoT Data”, co-authored with Xingliang Yuan, Qian Wang, and Qi Li, in 2019 IEEE Conference on Dependable and Secure Computing (IDSC), HangZhou, China, 2019.
 - **Chow Yei Ching School of Graduate Studies Scholarship** (2019-2020, only around 20 awardees university wide).
@@ -43,7 +43,7 @@ Full version of my publications can be found in **[Google Scholar](https://schol
 - 2018 IEEE ICDCS **Student Travel Grant**.
 
 
-## Invited Talks
+## Invited talks
 
 - “When Crowdsensing Meets Blockchain: Challenges, Applications, and Beyond”, Raising Star of CS Young Scholar Forum at Northwestern Polytechnical University via Tencent Meeting on 10th July 2021.
 - “When Private Search Meets Blockchains”, seminar at Monash via Zoom on 14th September 2020.
