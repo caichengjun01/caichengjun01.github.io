@@ -12,7 +12,7 @@ I am currently a postdoctoral research fellow at [HKAIFT](https://hkaift.com/), 
 
 Email: wtteue [at] gmail.com / chencai-c [at] my.cityu.edu.hk
 ## Research interests
-My research interests include decentralized data-driven applications, blockchain security, and applied cryptography.
+My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
 
 ## Recent publications
 
