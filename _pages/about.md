@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research fellow at [HKAIFT](https://hkaift.com/), City University of Hong Kong. I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow). Before my Ph.D. candidature, I worked as a research assistant at City University of Hong Kong from 2016 to 2017, and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016.
+I am currently a research fellow at City University of Hong Kong Dongguan Research Institute (CityU DGRI). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
 
-Email: wtteue [at] gmail.com / chencai-c [at] my.cityu.edu.hk
+Email: chengjun[dot]cai[at]cityu.edu.cn
 ## Research interests
 My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
 
@@ -24,7 +24,7 @@ My research interests include decentralized data-driven applications, FinTech, b
 
 
 *Conference*
-
+- <span style="color:blue">**[ACM CCS'22]**</span>	**Chengjun Cai**, Yichen Zang, Cong Wang, Xiaohua Jia, Qian Wang, “Vizard: A Metadata-hiding Data Analytic System with End-to-End Policy Controls”, accepted by ACM Conference on Computer and Communications Security (CCS), 2022.
 - <span style="color:blue">**[IEEE INFOCOM'21]**</span>	Jiasi Weng, Jian Weng, Hongwei Huang, **Chengjun Cai**, Cong Wang, “FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism”, in the 40th International Conference on Computer Communications, Virtual conference, 2021.
 - <span style="color:blue">**[IEEE INFOCOM'20]**</span> **Chengjun Cai**, Lei Xu, Anxin Zhou, Ruochen Wang, Cong Wang and Qian Wang, “EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves”, in the 39th International Conference on Computer Communications, Virtual conference, 2020. Extension version on **[IEEE TDSC](https://ieeexplore.ieee.org/document/9512478)**.
 - <span style="color:blue">**[IEEE ICDCS'18]**</span>	**Chengjun Cai**, Yifeng Zheng, and Cong Wang, “Leveraging Crowdsensed Data Streams to Discover and Sell Knowledge: A Secure and Efficient Realization”, in the 38th International Conference on Distributed Computing Systems, Vienna, Austria, 2018. Extension version on **[IEEE TDSC](https://ieeexplore.ieee.org/document/8930291)**.
@@ -45,6 +45,7 @@ Full version of my publications can be found in **[Google Scholar](https://schol
 
 ## Invited talks
 
+- “区块链安全应用开发与隐私增强应用”, Virtual Seminar Meeting at Northwestern Polytechnical University on 18th February 2022.
 - “When Crowdsensing Meets Blockchain: Challenges, Applications, and Beyond”, Raising Star of CS Young Scholar Forum at Northwestern Polytechnical University via Tencent Meeting on 10th July 2021.
 - “When Private Search Meets Blockchains”, seminar at Monash via Zoom on 14th September 2020.
 - Paper presentations at INFOCOM'20, ICDCS'18, and ICC'17.
