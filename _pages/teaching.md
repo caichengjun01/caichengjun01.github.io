@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching activities @ CityU
+## Teaching activities @ CityU HK
 
 -	Tutorial lecturer for course CS6290 (Privacy-enhancing Technologies) at Fall 2019 and 2020.
 - Teaching assistant for course CS5222 (Computer Networks) at Spring 2020 and 2021.
