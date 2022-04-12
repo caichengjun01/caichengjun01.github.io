@@ -10,11 +10,11 @@ redirect_from:
 
 I am currently a research fellow at City University of Hong Kong Dongguan Research Institute (CityU DGRI). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
 
-Email: chengjun[dot]cai[at]cityu.edu.cn
+Email: chengjun.cai[at]cityu.edu.cn
 ## Research interests
 My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
 
-## :star::star: RA positions available
+## RA positions available :star: :star: 
 Please refer to **[chinese version](http://www.gaoxiaojob.com/zhaopin/gaoxiaojiaofu/20220408/603625.html)** for more details and feel free to send me your CV ;-) 
 
 ## Recent publications
