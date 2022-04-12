@@ -12,8 +12,8 @@ I am currently a research fellow at City University of Hong Kong Dongguan Resear
 
 Email: chengjun.cai[at]cityu.edu.cn
 
-<i class="fa bullhorn fa-2x"></i> fa-2x RA positions available~ Please refer to **[chinese version](http://www.gaoxiaojob.com/zhaopin/gaoxiaojiaofu/20220408/603625.html)** for more details and feel free to send me your CV ;-)
- 
+<span style="color:red">**RA positions available**</span> Please refer to **[chinese version](http://www.gaoxiaojob.com/zhaopin/gaoxiaojiaofu/20220408/603625.html)** for more details and feel free to send me your CV ;-)
+
 ## Research interests
 My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
 
