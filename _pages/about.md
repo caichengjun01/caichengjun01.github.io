@@ -14,7 +14,7 @@ Email: chengjun[dot]cai[at]cityu.edu.cn
 ## Research interests
 My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
 
-## RA positions available at the Center for Computer Science and Information Technology, CityU DGRI
+## RA positions available~
 Please refer to **[chinese version](http://www.gaoxiaojob.com/zhaopin/gaoxiaojiaofu/20220408/603625.html)** for more details and feel free to send me your CV ;-) 
 
 ## Recent publications
