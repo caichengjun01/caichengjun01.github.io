@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chengjun CAI's Personal Page"
 title_separator          : "-"
 name                     : &name "Chengjun CAI"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Research Fellow"
 url                      : https://caichengjun01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caichengjun01.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chengjun CAI"
   avatar           : "chengjun.jpg"
-  bio              : "Research Fellow at CityU Dongguan Research Institute"
+  bio              : "Research Fellow at CityU (Dongguan)"
   location         : "Songshan Lake, China"
   employer         :
   pubmed           :
