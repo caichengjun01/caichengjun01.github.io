@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research fellow at City University of Hong Kong (Dongguan) (preparatory). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
+I am currently a research fellow at City University of Hong Kong (Dongguan). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
 
 Email: chengjun.cai[at]cityu.edu.cn
 
@@ -49,7 +49,7 @@ Full version of my publications can be found in **[Google Scholar](https://schol
 
 ## Invited talks
 
-- “区块链安全应用开发与隐私增强应用”, Virtual Seminar Meeting at Northwestern Polytechnical University on 18th February 2022.
-- “When Crowdsensing Meets Blockchain: Challenges, Applications, and Beyond”, Raising Star of CS Young Scholar Forum at Northwestern Polytechnical University via Tencent Meeting on 10th July 2021.
-- “When Private Search Meets Blockchains”, seminar at Monash via Zoom on 14th September 2020.
-- Paper presentations at INFOCOM'20, ICDCS'18, and ICC'17.
+- "Vizard: A Metadata-hiding Data Analytic System with End-to-End Policy Controls", Monash Software Systems and Cybersecurity Seminars on 1st August 2023.
+- "区块链安全应用开发与隐私增强应用", Virtual Seminar Meeting at Northwestern Polytechnical University on 18th February 2022.
+- "When Crowdsensing Meets Blockchain: Challenges, Applications, and Beyond", Raising Star of CS Young Scholar Forum at Northwestern Polytechnical University via Tencent Meeting on 10th July 2021.
+- "When Private Search Meets Blockchains", seminar at Monash via Zoom on 14th September 2020.
