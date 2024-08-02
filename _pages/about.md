@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research fellow at City University of Hong Kong (Dongguan). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
+I am currently an Associate Professor at City University of Hong Kong (Dongguan). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
 
 Email: chengjun.cai[at]cityu-dg.edu.cn
 
@@ -22,12 +22,17 @@ My research interests include decentralized data-driven applications, FinTech, b
 
 *Journal*
 
+-	<span style="color:blue">**[IEEE TIFS]**</span> Xiaoli Zhang, Wenxiang Sun, Zhicheng Xu, Hongbing Cheng, **Chengjun Cai**, Helei Cui, Qi Li “EVMShield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention”, published in IEEE Transactions on Information Forensics and Security, volume: 19, Page 2517-2532, 2024.
 -	<span style="color:blue">**[IEEE TDSC]**</span> **Chengjun Cai**, Jian Weng, Xingliang Yuan, Cong Wang, “Enabling Reliable Keyword Search in Encrypted Decentralized Storage with Fairness”, published in IEEE Transactions on Dependable and Secure Computing, volume: 18, Issue: 1, Jan.-Feb. 1 2021.
 - <span style="color:blue">**[IEEE TDSC]**</span> **Chengjun Cai**, Yifeng Zheng, Yuefeng Du, Zhan Qin, Cong Wang, “Towards Private, Robust, and Verifiable Crowdsensing Systems via Public Blockchains”, published by IEEE Transactions on Dependable and Secure Computing, volume: 18, Issue: 4, July-Aug. 1 2021.
 - <span style="color:blue">**[IEEE TDSC]**</span>	Jiasi Weng, Jian Weng, **Chengjun Cai**, Hongwei Huang, Cong Wang, “Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS”, accepted by IEEE Transactions on Dependable and Secure Computing, May 2021.
 
 
 *Conference*
+- <span style="color:blue">**[ACM MM'24]**</span>	Yi Liu, **Chengjun Cai**, Xiaoli Zhang, Xingliang Yuan, Cong Wang, “Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts”, accepted by ACM MULTIMEDIA, 2024.
+- <span style="color:blue">**[IEEE ICDCS'24]**</span>	Yichen Zang, **Chengjun Cai**, Wentao Dong, Lei Xu, Cong Wang, “HiddenTor: Toward a User-Centric and Private Query System for Tor BridgeDB”, accepted by IEEE International Conference on Distributed Computing Systems (ICDCS), 2024.
+- <span style="color:blue">**[ACM MM'24]**</span>	Weixiang Han, **Chengjun Cai**, Guo Yu, Jialiang Peng, “ERL-MR: Harnessing the Power of Euler Feature Representations for Balanced Multi-modal Learning”, accepted by ACM MULTIMEDIA, 2024.
+- <span style="color:blue">**[IEEE ICDE'24]**</span>	Zhao Bai, Mingyue Wang, Fangda Guo, Yu Guo, **Chengjun Cai**, Rongfang Bie, and Xiaohua Jia, “SecMdp: Towards Privacy-Preserving Multimodal Deep Learning in End-Edge-Cloud”, accepted by IEEE International Conference on Data Engineering (ICDE), 2024.
 - <span style="color:blue">**[ACM CCS'22]**</span>	**Chengjun Cai**, Yichen Zang, Cong Wang, Xiaohua Jia, Qian Wang, “Vizard: A Metadata-hiding Data Analytic System with End-to-End Policy Controls”, accepted by ACM Conference on Computer and Communications Security (CCS), 2022.
 - <span style="color:blue">**[IEEE INFOCOM'21]**</span>	Jiasi Weng, Jian Weng, Hongwei Huang, **Chengjun Cai**, Cong Wang, “FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism”, in the 40th International Conference on Computer Communications, Virtual conference, 2021.
 - <span style="color:blue">**[IEEE INFOCOM'20]**</span> **Chengjun Cai**, Lei Xu, Anxin Zhou, Ruochen Wang, Cong Wang and Qian Wang, “EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves”, in the 39th International Conference on Computer Communications, Virtual conference, 2020. Extension version on **[IEEE TDSC](https://ieeexplore.ieee.org/document/9512478)**.
