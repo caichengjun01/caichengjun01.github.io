@@ -7,7 +7,7 @@ author_profile: true
 
 ## Professional services
 
--	TPC member of EAI Adhocnets 2021 and IEEE MSN 2021.
+-	TPC member of EAI Adhocnets 2021, ICDCS 2023 and IEEE MSN 2021, 2024.
 - Journal reviewer
     * Proceedings of the IEEE (PIEEE)
     * IEEE Transactions on Dependable and Secure Computing (TDSC)

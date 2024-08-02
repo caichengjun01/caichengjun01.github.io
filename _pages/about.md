@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor at City University of Hong Kong (Dongguan). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
+I am currently an Associate Professor at City University of Hong Kong (Dongguan). I obtained my Ph.D. degree in Computer Science from City University of Hong Kong in July 2021, under the supervision of [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) (IEEE Fellow), and obtained my Bachelor degree in Computer Science and Technology from Jinan University, Guangzhou, in July 2016. I worked as a postdoctoral research fellow at [HKAIFT](https://hkaift.com/) from 2021 to 2022 and as a research assistant at City University of Hong Kong from 2016 to 2017. 
+
+My research interests include Cybersecurity, Financial Technologies, Privacy-enhancing Technologies, and AI Security.
 
 Email: chengjun.cai[at]cityu-dg.edu.cn
 
