@@ -13,6 +13,9 @@ I am currently an Associate Professor at City University of Hong Kong (Dongguan)
 Email: chengjun.cai[at]cityu-dg.edu.cn
 
 
+## :fire:News
+
+-  I am looking for self-motivating students to join my team at CityU(DG). Positions for PhD, RA, and interns are available. Please drop me your CV if interested. 
 
 ## Research interests
 My research interests include decentralized data-driven applications, FinTech, blockchain security, and applied cryptography.
