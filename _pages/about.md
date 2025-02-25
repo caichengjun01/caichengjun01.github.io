@@ -16,7 +16,7 @@ Email: chengjun.cai[at]cityu-dg.edu.cn
 
 ## :fire:News:fire:
 
--  I am looking for excellent PhD graduates or candidates to join my team at CityU(DG). Positions for Research Assistant Professor/Research Fellow and PhD are available. Please drop me your CV if interested. 
+-  I am looking for excellent PhD graduates or candidates to join my team at CityU(DG). Positions for [Research Assistant Professor/Research Fellow](https://github.com/caichengjun01/caichengjun01.github.io/blob/master/cv/CityUDG-RAP-225.pdf) and PhD are available. Please drop me your CV if interested. 
 
 ## Recent publications
 
