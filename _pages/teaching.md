@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Teaching activities @ CityU DG
+
+- Lecturer for course IS5312 (Analytical Programming with Python) at Fall 2024 
+
+
 ## Teaching activities @ CityU HK
 
 -	Tutorial lecturer for course CS6290 (Privacy-enhancing Technologies) at Fall 2019 and 2020.
