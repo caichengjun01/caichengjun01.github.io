@@ -22,6 +22,7 @@ Email: chengjun.cai[at]cityu-dg.edu.cn
 
 *Journal*
 
+- <span style="color:blue">**[IEEE TNNLS]**</span> Zhi-An Huang, Yajie Zhang, Yao Hu, **Chengjun Cai**, Yu-An Huang, Kay Chen Tan  "Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning", accepted by IEEE TNNLS Dec 2024.
 -	<span style="color:blue">**[IEEE TIFS]**</span> Xiaoli Zhang, Wenxiang Sun, Zhicheng Xu, Hongbing Cheng, **Chengjun Cai**, Helei Cui, Qi Li “EVMShield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention”, published in IEEE Transactions on Information Forensics and Security, volume: 19, Page 2517-2532, 2024.
 -	<span style="color:blue">**[IEEE TDSC]**</span> **Chengjun Cai**, Jian Weng, Xingliang Yuan, Cong Wang, “Enabling Reliable Keyword Search in Encrypted Decentralized Storage with Fairness”, published in IEEE Transactions on Dependable and Secure Computing, volume: 18, Issue: 1, Jan.-Feb. 1 2021.
 - <span style="color:blue">**[IEEE TDSC]**</span> **Chengjun Cai**, Yifeng Zheng, Yuefeng Du, Zhan Qin, Cong Wang, “Towards Private, Robust, and Verifiable Crowdsensing Systems via Public Blockchains”, published by IEEE Transactions on Dependable and Secure Computing, volume: 18, Issue: 4, July-Aug. 1 2021.
@@ -29,6 +30,12 @@ Email: chengjun.cai[at]cityu-dg.edu.cn
 
 
 *Conference*
+
+- <span style="color:blue">**[IEEE ESORICS'24]**</span> Rui Lian, Yulong Ming, **Chengjun Cai**, Yifeng Zheng, Cong Wang, and Xiaohua Jia, “Nemesis: 
+Combating Abusive Information in Encrypted Messaging with Private Reporting”, accepted by the 29th  
+European Symposium on Research in Computer Security (ESORICS) 2024.
+- <span style="color:blue">**[IEEE MSN'24]**</span> Qingyuan Xie, **Chengjun Cai**, Zhi-An Huang, Mingyue Wang, Xiaohua Jia, “DPoSt: Dynamic Proof of Storage-time”,  accepted by the 20th International Conference on Mobility, Sensing and Networking 
+(MSN) 2024. 
 - <span style="color:blue">**[ACM MM'24]**</span>	Yi Liu, **Chengjun Cai**, Xiaoli Zhang, Xingliang Yuan, Cong Wang, “Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts”, accepted by ACM MULTIMEDIA, 2024.
 - <span style="color:blue">**[IEEE ICDCS'24]**</span>	Yichen Zang, **Chengjun Cai**, Wentao Dong, Lei Xu, Cong Wang, “HiddenTor: Toward a User-Centric and Private Query System for Tor BridgeDB”, accepted by IEEE International Conference on Distributed Computing Systems (ICDCS), 2024.
 - <span style="color:blue">**[ACM MM'24]**</span>	Weixiang Han, **Chengjun Cai**, Guo Yu, Jialiang Peng, “ERL-MR: Harnessing the Power of Euler Feature Representations for Balanced Multi-modal Learning”, accepted by ACM MULTIMEDIA, 2024.
